@@ -8,3 +8,15 @@ interest in cyber security.  After taking some programming classes in C++, I rea
 coding or really, making something that works.  I feel I still have a lot to learn, but when I do
 create a program and it runs successfully, I truely enjoy the satisfaction from it.  I'm hoping
 to sharpen my programming skills and make stuff that can benifit society*/
+
+#include<iostream>
+
+using namespace std:
+
+int main(){
+
+cout<<"Hello world!  I'm new to Git-Hub and hoping to one day become a software engineer!";
+
+return 0;
+
+}
